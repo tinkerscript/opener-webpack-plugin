@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.vs
+config/local.json
+coverage
+desktop.ini
+dist
+local
+node_modules
+*.log
